@@ -140,6 +140,7 @@ Interested in:
 - Data Structures & Algorithms
 - Artificial Intelligence
 - Software Development
+
 LinkedIn:www.linkedin.com/in/sayali-kale-42001a2b1
 
 ---
